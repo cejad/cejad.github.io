@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cejad.github.io/Mkg/sitemap.Mkg.gz
